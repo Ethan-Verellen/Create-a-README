@@ -28,6 +28,14 @@ by Ethan Verellen
 It is a way to create a readme without having to manually type the readme based coding.
 
 
+## Visuals
+![This is a image of the code to make the readme](./images/Typing.png)
+
+![this is an image of the top half of the readme](./images/Top.png)
+
+![this is an image of the bottom half of the readme](./images/Bottom.png)
+
+
 ## Useage
 
 Go into a terminal/git bash, find your wy to the folder and type in the line 'node index.js'. Awnser the prompts that apear there and it will tell you that it is done.  Remember to remove the temp- from infront of the new file made.
